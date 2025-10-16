@@ -20,4 +20,4 @@ Automatically classify news articles as **Real** or **Fake**, useful for social 
 - scikit-learn
 - pandas & numpy
 - matplotlib & seaborn (for visualization)
-- Streamlit (optional, for deployment)
+- Streamlit (for deployment)
